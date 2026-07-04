@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/yashmalviya-23/codes/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/yashmalviya-23/codes/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/yashmalviya-23/codes/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |
@@ -31,4 +33,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
