@@ -34,4 +34,8 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/yashmalviya-23/codes/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
