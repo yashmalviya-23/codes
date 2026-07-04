@@ -1,1 +1,8 @@
 # codes
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/yashmalviya-23/codes/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
