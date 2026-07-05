@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/yashmalviya-23/codes/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/yashmalviya-23/codes/tree/main/0029-divide-two-integers/) | Medium |
 | [0069-sqrtx](https://github.com/yashmalviya-23/codes/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
@@ -33,6 +34,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/yashmalviya-23/codes/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0461-hamming-distance](https://github.com/yashmalviya-23/codes/tree/main/0461-hamming-distance/) | Easy |
