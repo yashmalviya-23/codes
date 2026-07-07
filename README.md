@@ -15,6 +15,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/yashmalviya-23/codes/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/yashmalviya-23/codes/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/yashmalviya-23/codes/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashmalviya-23/codes/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/yashmalviya-23/codes/tree/main/0139-word-break/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,8 +63,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/yashmalviya-23/codes/tree/main/0075-sort-colors/) | Medium |
+| [0139-word-break](https://github.com/yashmalviya-23/codes/tree/main/0139-word-break/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/yashmalviya-23/codes/tree/main/0075-sort-colors/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/yashmalviya-23/codes/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/yashmalviya-23/codes/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
