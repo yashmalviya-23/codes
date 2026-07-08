@@ -41,6 +41,7 @@
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0461-hamming-distance](https://github.com/yashmalviya-23/codes/tree/main/0461-hamming-distance/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/yashmalviya-23/codes/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
