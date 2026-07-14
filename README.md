@@ -14,6 +14,7 @@
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yashmalviya-23/codes/tree/master/1137-n-th-tribonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yashmalviya-23/codes/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yashmalviya-23/codes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yashmalviya-23/codes/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
