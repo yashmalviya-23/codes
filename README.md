@@ -12,6 +12,7 @@
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/yashmalviya-23/codes/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
+| [0279-perfect-squares](https://github.com/yashmalviya-23/codes/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/yashmalviya-23/codes/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
@@ -24,6 +25,7 @@
 | [0070-climbing-stairs](https://github.com/yashmalviya-23/codes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/yashmalviya-23/codes/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/yashmalviya-23/codes/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yashmalviya-23/codes/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -115,4 +117,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/yashmalviya-23/codes/tree/main/0605-can-place-flowers/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/yashmalviya-23/codes/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
