@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/yashmalviya-23/codes/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/yashmalviya-23/codes/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/yashmalviya-23/codes/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/yashmalviya-23/codes/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/yashmalviya-23/codes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
@@ -54,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/yashmalviya-23/codes/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/yashmalviya-23/codes/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
@@ -64,11 +66,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/yashmalviya-23/codes/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashmalviya-23/codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
