@@ -18,6 +18,7 @@
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0372-super-pow](https://github.com/yashmalviya-23/codes/tree/main/0372-super-pow/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/yashmalviya-23/codes/tree/master/1137-n-th-tribonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/yashmalviya-23/codes/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashmalviya-23/codes/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -98,11 +99,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/yashmalviya-23/codes/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/yashmalviya-23/codes/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yashmalviya-23/codes/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
