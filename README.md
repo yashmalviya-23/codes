@@ -64,6 +64,7 @@
 | [0461-hamming-distance](https://github.com/yashmalviya-23/codes/tree/main/0461-hamming-distance/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/yashmalviya-23/codes/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0868-binary-gap](https://github.com/yashmalviya-23/codes/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/yashmalviya-23/codes/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
