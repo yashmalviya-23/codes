@@ -72,6 +72,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/yashmalviya-23/codes/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
+| [0093-restore-ip-addresses](https://github.com/yashmalviya-23/codes/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/yashmalviya-23/codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashmalviya-23/codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/yashmalviya-23/codes/tree/master/0176-second-highest-salary) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/yashmalviya-23/codes/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
