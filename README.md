@@ -61,6 +61,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/yashmalviya-23/codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yashmalviya-23/codes/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yashmalviya-23/codes/tree/main/0069-sqrtx/) | Easy |
+| [0162-find-peak-element](https://github.com/yashmalviya-23/codes/tree/main/0162-find-peak-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@
 | [0088-merge-sorted-array](https://github.com/yashmalviya-23/codes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/yashmalviya-23/codes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/yashmalviya-23/codes/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/yashmalviya-23/codes/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
