@@ -69,6 +69,7 @@
 | [0029-divide-two-integers](https://github.com/yashmalviya-23/codes/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/yashmalviya-23/codes/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/yashmalviya-23/codes/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0461-hamming-distance](https://github.com/yashmalviya-23/codes/tree/main/0461-hamming-distance/) | Easy |
@@ -160,6 +161,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashmalviya-23/codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/yashmalviya-23/codes/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/yashmalviya-23/codes/tree/main/0190-reverse-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0372-super-pow](https://github.com/yashmalviya-23/codes/tree/main/0372-super-pow/) | Medium |
 ## Heap (Priority Queue)
