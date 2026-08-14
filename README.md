@@ -187,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/yashmalviya-23/codes/tree/master/0176-second-highest-salary) |
+| [0183-customers-who-never-order](https://github.com/yashmalviya-23/codes/tree/main/0183-customers-who-never-order/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
