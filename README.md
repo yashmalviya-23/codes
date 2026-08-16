@@ -62,6 +62,7 @@
 | [0035-search-insert-position](https://github.com/yashmalviya-23/codes/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yashmalviya-23/codes/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/yashmalviya-23/codes/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/yashmalviya-23/codes/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -107,6 +108,7 @@
 | [0075-sort-colors](https://github.com/yashmalviya-23/codes/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashmalviya-23/codes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/yashmalviya-23/codes/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
 ## Array
 |  |
@@ -120,6 +122,7 @@
 | [0136-single-number](https://github.com/yashmalviya-23/codes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/yashmalviya-23/codes/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yashmalviya-23/codes/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/yashmalviya-23/codes/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
