@@ -22,6 +22,7 @@
 | [0372-super-pow](https://github.com/yashmalviya-23/codes/tree/main/0372-super-pow/) | Medium |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/yashmalviya-23/codes/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/yashmalviya-23/codes/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashmalviya-23/codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -131,6 +132,7 @@
 | [0605-can-place-flowers](https://github.com/yashmalviya-23/codes/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/yashmalviya-23/codes/tree/master/0704-binary-search) |
+| [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/yashmalviya-23/codes/tree/main/0877-stone-game/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/yashmalviya-23/codes/tree/master/3731-find-missing-elements) |
@@ -222,4 +224,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/yashmalviya-23/codes/tree/main/0169-majority-element/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
