@@ -117,6 +117,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/yashmalviya-23/codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashmalviya-23/codes/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/yashmalviya-23/codes/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/yashmalviya-23/codes/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/yashmalviya-23/codes/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yashmalviya-23/codes/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashmalviya-23/codes/tree/main/0088-merge-sorted-array/) | Easy |
@@ -154,6 +155,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/yashmalviya-23/codes/tree/main/0041-first-missing-positive/) | Hard |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/yashmalviya-23/codes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yashmalviya-23/codes/tree/main/0217-contains-duplicate/) | Easy |
