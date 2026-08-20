@@ -97,6 +97,7 @@
 | [0043-multiply-strings](https://github.com/yashmalviya-23/codes/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yashmalviya-23/codes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@
 | [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/yashmalviya-23/codes/tree/main/0877-stone-game/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yashmalviya-23/codes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/yashmalviya-23/codes/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/yashmalviya-23/codes/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Sorting
