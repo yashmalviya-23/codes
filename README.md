@@ -89,6 +89,7 @@
 | [0125-valid-palindrome](https://github.com/yashmalviya-23/codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/yashmalviya-23/codes/tree/main/0179-largest-number/) | Medium |
+| [0344-reverse-string](https://github.com/yashmalviya-23/codes/tree/main/0344-reverse-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashmalviya-23/codes/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashmalviya-23/codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Simulation
@@ -112,6 +113,7 @@
 | [0125-valid-palindrome](https://github.com/yashmalviya-23/codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/yashmalviya-23/codes/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
