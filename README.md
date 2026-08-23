@@ -16,6 +16,7 @@
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/yashmalviya-23/codes/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/yashmalviya-23/codes/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/yashmalviya-23/codes/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
@@ -65,6 +66,7 @@
 | [0069-sqrtx](https://github.com/yashmalviya-23/codes/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/yashmalviya-23/codes/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/yashmalviya-23/codes/tree/master/0704-binary-search) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@
 | [0190-reverse-bits](https://github.com/yashmalviya-23/codes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yashmalviya-23/codes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0461-hamming-distance](https://github.com/yashmalviya-23/codes/tree/main/0461-hamming-distance/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/yashmalviya-23/codes/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
@@ -133,6 +136,7 @@
 | [0179-largest-number](https://github.com/yashmalviya-23/codes/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/yashmalviya-23/codes/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/yashmalviya-23/codes/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -152,6 +156,7 @@
 | [0179-largest-number](https://github.com/yashmalviya-23/codes/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/yashmalviya-23/codes/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yashmalviya-23/codes/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -164,6 +169,7 @@
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/yashmalviya-23/codes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yashmalviya-23/codes/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/main/0268-missing-number/) | Easy |
 | [3731-find-missing-elements](https://github.com/yashmalviya-23/codes/tree/master/3731-find-missing-elements) |
 ## Trie
 | Problem Name | Difficulty |
