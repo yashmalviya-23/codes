@@ -26,6 +26,7 @@
 | [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/yashmalviya-23/codes/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/yashmalviya-23/codes/tree/master/1137-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/yashmalviya-23/codes/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashmalviya-23/codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashmalviya-23/codes/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yashmalviya-23/codes/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -143,6 +144,7 @@
 | [0704-binary-search](https://github.com/yashmalviya-23/codes/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/yashmalviya-23/codes/tree/main/0877-stone-game/) | Medium |
+| [1266-minimum-time-visiting-all-points](https://github.com/yashmalviya-23/codes/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashmalviya-23/codes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/yashmalviya-23/codes/tree/master/3731-find-missing-elements) |
@@ -241,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
+| [1266-minimum-time-visiting-all-points](https://github.com/yashmalviya-23/codes/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
