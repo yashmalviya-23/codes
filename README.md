@@ -105,6 +105,7 @@
 | [0043-multiply-strings](https://github.com/yashmalviya-23/codes/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
+| [0682-baseball-game](https://github.com/yashmalviya-23/codes/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashmalviya-23/codes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Number Theory
 |  |
@@ -143,6 +144,7 @@
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/yashmalviya-23/codes/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/yashmalviya-23/codes/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/yashmalviya-23/codes/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/yashmalviya-23/codes/tree/main/0877-stone-game/) | Medium |
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/yashmalviya-23/codes/tree/main/0812-largest-triangle-area/) | Easy |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/yashmalviya-23/codes/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
