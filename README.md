@@ -69,6 +69,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmalviya-23/codes/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/yashmalviya-23/codes/tree/master/0704-binary-search) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/yashmalviya-23/codes/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yashmalviya-23/codes/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yashmalviya-23/codes/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0605-can-place-flowers](https://github.com/yashmalviya-23/codes/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/yashmalviya-23/codes/tree/master/0682-baseball-game) |
@@ -167,6 +170,7 @@
 | [0217-contains-duplicate](https://github.com/yashmalviya-23/codes/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmalviya-23/codes/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/yashmalviya-23/codes/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -182,6 +186,7 @@
 | [0217-contains-duplicate](https://github.com/yashmalviya-23/codes/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashmalviya-23/codes/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/yashmalviya-23/codes/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/yashmalviya-23/codes/tree/master/3731-find-missing-elements) |
 ## Trie
