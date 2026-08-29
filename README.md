@@ -68,6 +68,7 @@
 | [0162-find-peak-element](https://github.com/yashmalviya-23/codes/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yashmalviya-23/codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/yashmalviya-23/codes/tree/master/0704-binary-search) |
@@ -81,6 +82,7 @@
 | [0191-number-of-1-bits](https://github.com/yashmalviya-23/codes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/yashmalviya-23/codes/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/yashmalviya-23/codes/tree/main/0461-hamming-distance/) | Easy |
@@ -123,6 +125,7 @@
 | [0125-valid-palindrome](https://github.com/yashmalviya-23/codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/yashmalviya-23/codes/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yashmalviya-23/codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -146,6 +149,7 @@
 | [0217-contains-duplicate](https://github.com/yashmalviya-23/codes/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/yashmalviya-23/codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/yashmalviya-23/codes/tree/main/0605-can-place-flowers/) | Easy |
@@ -268,4 +272,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/yashmalviya-23/codes/tree/master/0682-baseball-game) |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
