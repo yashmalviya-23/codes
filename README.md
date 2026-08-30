@@ -160,6 +160,7 @@
 | [0877-stone-game](https://github.com/yashmalviya-23/codes/tree/main/0877-stone-game/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashmalviya-23/codes/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yashmalviya-23/codes/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashmalviya-23/codes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/yashmalviya-23/codes/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/yashmalviya-23/codes/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -220,6 +221,7 @@
 | ------- | ------- |
 | [0179-largest-number](https://github.com/yashmalviya-23/codes/tree/main/0179-largest-number/) | Medium |
 | [0605-can-place-flowers](https://github.com/yashmalviya-23/codes/tree/main/0605-can-place-flowers/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yashmalviya-23/codes/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashmalviya-23/codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
