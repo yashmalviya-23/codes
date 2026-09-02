@@ -143,6 +143,7 @@
 | [0136-single-number](https://github.com/yashmalviya-23/codes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/yashmalviya-23/codes/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/yashmalviya-23/codes/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yashmalviya-23/codes/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/yashmalviya-23/codes/tree/main/0179-largest-number/) | Medium |
@@ -171,6 +172,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/yashmalviya-23/codes/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yashmalviya-23/codes/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/yashmalviya-23/codes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/yashmalviya-23/codes/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/yashmalviya-23/codes/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -281,9 +283,18 @@
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/yashmalviya-23/codes/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/yashmalviya-23/codes/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/yashmalviya-23/codes/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
