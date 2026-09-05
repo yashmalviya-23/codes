@@ -306,4 +306,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/yashmalviya-23/codes/tree/master/3903-smallest-stable-index-i) |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/yashmalviya-23/codes/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
