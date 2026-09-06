@@ -102,6 +102,7 @@
 | [0344-reverse-string](https://github.com/yashmalviya-23/codes/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/yashmalviya-23/codes/tree/master/0389-find-the-difference) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashmalviya-23/codes/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2390-removing-stars-from-a-string](https://github.com/yashmalviya-23/codes/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/yashmalviya-23/codes/tree/main/2418-sort-the-people/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashmalviya-23/codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Simulation
@@ -111,6 +112,7 @@
 | [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/yashmalviya-23/codes/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/yashmalviya-23/codes/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashmalviya-23/codes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -285,6 +287,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/yashmalviya-23/codes/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/yashmalviya-23/codes/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
