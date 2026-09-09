@@ -249,6 +249,7 @@
 | [0183-customers-who-never-order](https://github.com/yashmalviya-23/codes/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/yashmalviya-23/codes/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0595-big-countries](https://github.com/yashmalviya-23/codes/tree/master/0595-big-countries) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/yashmalviya-23/codes/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
