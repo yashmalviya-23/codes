@@ -16,6 +16,7 @@
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/yashmalviya-23/codes/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/yashmalviya-23/codes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/yashmalviya-23/codes/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/yashmalviya-23/codes/tree/main/0326-power-of-three/) | Easy |
