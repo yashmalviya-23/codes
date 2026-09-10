@@ -83,6 +83,7 @@
 | [0190-reverse-bits](https://github.com/yashmalviya-23/codes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yashmalviya-23/codes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yashmalviya-23/codes/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/yashmalviya-23/codes/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
@@ -155,6 +156,7 @@
 | [0198-house-robber](https://github.com/yashmalviya-23/codes/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/yashmalviya-23/codes/tree/main/0217-contains-duplicate/) | Easy |
+| [0260-single-number-iii](https://github.com/yashmalviya-23/codes/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashmalviya-23/codes/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/yashmalviya-23/codes/tree/main/0287-find-the-duplicate-number/) | Medium |
