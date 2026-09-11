@@ -22,6 +22,7 @@
 | [0326-power-of-three](https://github.com/yashmalviya-23/codes/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0372-super-pow](https://github.com/yashmalviya-23/codes/tree/main/0372-super-pow/) | Medium |
+| [0412-fizz-buzz](https://github.com/yashmalviya-23/codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashmalviya-23/codes/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -106,6 +107,7 @@
 | [0179-largest-number](https://github.com/yashmalviya-23/codes/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/yashmalviya-23/codes/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/yashmalviya-23/codes/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/yashmalviya-23/codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashmalviya-23/codes/tree/main/0415-add-strings/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashmalviya-23/codes/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2390-removing-stars-from-a-string](https://github.com/yashmalviya-23/codes/tree/master/2390-removing-stars-from-a-string) |
@@ -117,6 +119,7 @@
 | [0043-multiply-strings](https://github.com/yashmalviya-23/codes/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/yashmalviya-23/codes/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/yashmalviya-23/codes/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/yashmalviya-23/codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashmalviya-23/codes/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/yashmalviya-23/codes/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/yashmalviya-23/codes/tree/master/2390-removing-stars-from-a-string) |
