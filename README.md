@@ -116,6 +116,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/yashmalviya-23/codes/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/yashmalviya-23/codes/tree/main/2418-sort-the-people/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashmalviya-23/codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3110-score-of-a-string](https://github.com/yashmalviya-23/codes/tree/main/3110-score-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
