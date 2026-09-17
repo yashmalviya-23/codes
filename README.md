@@ -112,6 +112,7 @@
 | [0389-find-the-difference](https://github.com/yashmalviya-23/codes/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/yashmalviya-23/codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashmalviya-23/codes/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/yashmalviya-23/codes/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/yashmalviya-23/codes/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2390-removing-stars-from-a-string](https://github.com/yashmalviya-23/codes/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/yashmalviya-23/codes/tree/main/2418-sort-the-people/) | Easy |
