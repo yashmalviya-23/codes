@@ -45,6 +45,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashmalviya-23/codes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/yashmalviya-23/codes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yashmalviya-23/codes/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/yashmalviya-23/codes/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/yashmalviya-23/codes/tree/main/0279-perfect-squares/) | Medium |
@@ -162,6 +163,7 @@
 | [0088-merge-sorted-array](https://github.com/yashmalviya-23/codes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/yashmalviya-23/codes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/yashmalviya-23/codes/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/yashmalviya-23/codes/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/yashmalviya-23/codes/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/yashmalviya-23/codes/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashmalviya-23/codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
