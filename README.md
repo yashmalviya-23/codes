@@ -33,6 +33,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/yashmalviya-23/codes/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashmalviya-23/codes/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yashmalviya-23/codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1837-sum-of-digits-in-base-k](https://github.com/yashmalviya-23/codes/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashmalviya-23/codes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashmalviya-23/codes/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yashmalviya-23/codes/tree/main/3536-maximum-product-of-two-digits/) | Easy |
