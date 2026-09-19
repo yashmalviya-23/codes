@@ -8,8 +8,7 @@ public:
         
         while(n!=0)
         {
-            int temp=n%k;
-            final+=temp;
+            final+=n%k;
             n/=k;
         }
   
