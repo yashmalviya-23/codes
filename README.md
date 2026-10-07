@@ -206,6 +206,7 @@
 | [1051-height-checker](https://github.com/yashmalviya-23/codes/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashmalviya-23/codes/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/yashmalviya-23/codes/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/yashmalviya-23/codes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashmalviya-23/codes/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2418-sort-the-people](https://github.com/yashmalviya-23/codes/tree/main/2418-sort-the-people/) | Easy |
