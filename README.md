@@ -211,6 +211,7 @@
 | [1929-concatenation-of-array](https://github.com/yashmalviya-23/codes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashmalviya-23/codes/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2418-sort-the-people](https://github.com/yashmalviya-23/codes/tree/main/2418-sort-the-people/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yashmalviya-23/codes/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashmalviya-23/codes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashmalviya-23/codes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/yashmalviya-23/codes/tree/master/3731-find-missing-elements) |
@@ -319,6 +320,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yashmalviya-23/codes/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashmalviya-23/codes/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
