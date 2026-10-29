@@ -19,6 +19,7 @@
 | [0263-ugly-number](https://github.com/yashmalviya-23/codes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/yashmalviya-23/codes/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/yashmalviya-23/codes/tree/main/0279-perfect-squares/) | Medium |
+| [0319-bulb-switcher](https://github.com/yashmalviya-23/codes/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/yashmalviya-23/codes/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/yashmalviya-23/codes/tree/main/0342-power-of-four/) | Easy |
 | [0372-super-pow](https://github.com/yashmalviya-23/codes/tree/main/0372-super-pow/) | Medium |
@@ -391,4 +392,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/yashmalviya-23/codes/tree/main/0141-linked-list-cycle/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/yashmalviya-23/codes/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
