@@ -25,6 +25,7 @@
 | [0372-super-pow](https://github.com/yashmalviya-23/codes/tree/main/0372-super-pow/) | Medium |
 | [0412-fizz-buzz](https://github.com/yashmalviya-23/codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashmalviya-23/codes/tree/main/0415-add-strings/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashmalviya-23/codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/yashmalviya-23/codes/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/yashmalviya-23/codes/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -193,6 +194,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yashmalviya-23/codes/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashmalviya-23/codes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashmalviya-23/codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/yashmalviya-23/codes/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashmalviya-23/codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/yashmalviya-23/codes/tree/main/0605-can-place-flowers/) | Easy |
@@ -234,6 +236,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/yashmalviya-23/codes/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/yashmalviya-23/codes/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yashmalviya-23/codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/yashmalviya-23/codes/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashmalviya-23/codes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/yashmalviya-23/codes/tree/main/0905-sort-array-by-parity/) | Easy |
