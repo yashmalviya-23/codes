@@ -162,6 +162,7 @@
 | [0344-reverse-string](https://github.com/yashmalviya-23/codes/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yashmalviya-23/codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashmalviya-23/codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/yashmalviya-23/codes/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/yashmalviya-23/codes/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/yashmalviya-23/codes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Array
@@ -395,6 +396,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yashmalviya-23/codes/tree/main/0141-linked-list-cycle/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/yashmalviya-23/codes/tree/master/0876-middle-of-the-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
